@@ -1,7 +1,5 @@
-# data
+# Conlang
 Pre trained data for an Hafestran language model. This model can be thought of as the total summary of my fictional language within my science fiction universe I am fleshing out, sort of like how J.R. Tolkein has his own fictional language.
-
-## This mathematica is trained on
 
 ## Alphabet
 <pre>
